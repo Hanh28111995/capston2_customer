@@ -60,7 +60,7 @@ header .navbar-nav .active::after {
 }
 
 #carousel {
-  background-image: url(../../image//product-header-bg.jpg);
+  background-image: url(../image//product-header-bg.jpg);
   background-size: cover;
   background-position: center bottom;
   padding: 225px 0;
